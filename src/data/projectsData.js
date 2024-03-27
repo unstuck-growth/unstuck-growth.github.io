@@ -11,29 +11,29 @@ import eight from '../assets/svg/projects/eight.svg'
 export const projectsData = [
     {
         id: 1,
-        projectName: 'Employee Management',
-        projectDesc: 'This project aims to build an employee management system that consolidates all information of a company',
-        tags: ['React', 'CSS', 'Material Ui'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        projectName: 'Idea Incubator: Is Your Idea a Diamond in the Rough? Brainstorm & Polish it with Us.',
+        projectDesc: 'I will brainstorm & help refine your business ideas. We will evaluate them against your business goals, market fit and other critical parameters and build out a concrete blueprint for the winner',
+        tags: ['Deliverables: Business Model Canvas'],
+        code: '',
+        demo: '',
         image: one
     },
     {
         id: 2,
-        projectName: 'Railway Tracking',
-        projectDesc: 'This project is a railway tracking system that allows users to obtain relevant information about train timing.',
-        tags: ['Django', 'Tailwind CSS'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        projectName: 'Market Maverick: Navigate the Market & Find Your Perfect Fit with laser-focused customer targeting.',
+        projectDesc: 'I will help you craft your target customer profile, identify the niche in the market, navigate the competition, and build targeted strategies to enter the market.',
+        tags: ['Deliverables: Target customer personas, Competition landscape'],
+        code: '',
+        demo: '',
         image: two
     },
     {
         id: 3,
-        projectName: 'Weather App',
-        projectDesc: 'Weather forecast systems and applications predict weather conditions based on multiple parameters.',
-        tags: ['Django', 'CSS', 'Material Ui'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        projectName: 'Product Powerhouse: Building Products People Love',
+        projectDesc: 'I will partner with you to develop innovative digital/physical products from ideation to a minimum viable product (MVP).',
+        tags: ['Deliverables: MVP wireframe (low fidelity)'],
+        code: '',
+        demo: '',
         image: three
     },
     {
