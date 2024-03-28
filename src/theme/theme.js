@@ -65,12 +65,12 @@ export const bwThemeLight = {
     tertiary: '#212121',
     tertiary80: '#212121cc',
     tertiary70: '#212121b3',
-    tertiary50: '#21212180',
+    tertiary50: '#eeeeee',
     aboutimg1: bwThemeboy,
     aboutimg2: bwThemegirl,
     eduimg: eduBlack,
     expimg: expBlack,
-    contactsimg: contactsBlack
+    contactsimg: contactsBlack,
 }
 export const bwThemeDark = {
     type: 'dark',
