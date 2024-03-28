@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.9e137b3c.chunk.css",
-    "main.js": "/static/js/main.a01ac078.chunk.js",
-    "main.js.map": "/static/js/main.a01ac078.chunk.js.map",
+    "main.js": "/static/js/main.fb9c353a.chunk.js",
+    "main.js.map": "/static/js/main.fb9c353a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.11e15922.js",
     "runtime-main.js.map": "/static/js/runtime-main.11e15922.js.map",
     "static/css/2.19627560.chunk.css": "/static/css/2.19627560.chunk.css",
-    "static/js/2.8ed9d5f9.chunk.js": "/static/js/2.8ed9d5f9.chunk.js",
-    "static/js/2.8ed9d5f9.chunk.js.map": "/static/js/2.8ed9d5f9.chunk.js.map",
+    "static/js/2.b2144bdf.chunk.js": "/static/js/2.b2144bdf.chunk.js",
+    "static/js/2.b2144bdf.chunk.js.map": "/static/js/2.b2144bdf.chunk.js.map",
     "static/js/3.a044e014.chunk.js": "/static/js/3.a044e014.chunk.js",
     "static/js/3.a044e014.chunk.js.map": "/static/js/3.a044e014.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.19627560.chunk.css.map": "/static/css/2.19627560.chunk.css.map",
     "static/css/main.9e137b3c.chunk.css.map": "/static/css/main.9e137b3c.chunk.css.map",
-    "static/js/2.8ed9d5f9.chunk.js.LICENSE.txt": "/static/js/2.8ed9d5f9.chunk.js.LICENSE.txt",
+    "static/js/2.b2144bdf.chunk.js.LICENSE.txt": "/static/js/2.b2144bdf.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/BestermindRegular.e58a1922.ttf",
     "static/media/adobe-xd.fa7a22d2.svg": "/static/media/adobe-xd.fa7a22d2.svg",
     "static/media/adobeaudition.dd56aeda.svg": "/static/media/adobeaudition.dd56aeda.svg",
@@ -50,6 +50,7 @@
     "static/media/deno.04aa2c4d.svg": "/static/media/deno.04aa2c4d.svg",
     "static/media/django.497d37be.svg": "/static/media/django.497d37be.svg",
     "static/media/docker.26ada6e4.svg": "/static/media/docker.26ada6e4.svg",
+    "static/media/dp.f2037b3d.jpg": "/static/media/dp.f2037b3d.jpg",
     "static/media/eduBlack.bffa14bd.svg": "/static/media/eduBlack.bffa14bd.svg",
     "static/media/eduBlue.e5287488.svg": "/static/media/eduBlue.e5287488.svg",
     "static/media/eduGreen.3fe15544.svg": "/static/media/eduGreen.3fe15544.svg",
@@ -154,8 +155,8 @@
   "entrypoints": [
     "static/js/runtime-main.11e15922.js",
     "static/css/2.19627560.chunk.css",
-    "static/js/2.8ed9d5f9.chunk.js",
+    "static/js/2.b2144bdf.chunk.js",
     "static/css/main.9e137b3c.chunk.css",
-    "static/js/main.a01ac078.chunk.js"
+    "static/js/main.fb9c353a.chunk.js"
   ]
 }
